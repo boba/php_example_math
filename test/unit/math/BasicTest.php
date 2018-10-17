@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: boba
- * Date: 10/16/18
- * Time: 9:41 PM
- */
 
 use Math\Basic;
 
