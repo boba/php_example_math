@@ -1,8 +1,7 @@
 {
   "name": "example/math",
   "description": "Math Example",
-  "minimum-stability": "stable",
-  "license": "proprietary",
+  "version": "0.0.1",
   "authors": [
     {
       "name": "author's name",
